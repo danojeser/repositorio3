@@ -53,4 +53,8 @@ public class Array {
 		System.out.println("Esto es metodo 2 de copia2");
 	}
 
+
+	public static int metodoRama(){
+		return 5;
+	}
 }
