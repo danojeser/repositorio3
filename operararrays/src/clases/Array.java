@@ -45,8 +45,8 @@ public class Array {
 	}
 
 
-	public static void nuevoMetodo2(){
-		System.out.println("Esto es metodo 2 de copia2");
+	public static void nuevoMetodo1(){
+		System.out.println("Esto es metodo 1 de copia1");
 	}
 
 }
