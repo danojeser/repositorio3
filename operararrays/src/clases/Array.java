@@ -54,7 +54,11 @@ public class Array {
 	}
 
 	public void modificacionRama(){
-		System.err.println("Esto es una rama nueva");
+		System.out.println("Esto es una rama nueva");
+	}
+
+	public void modificacionRamaDos(){
+		System.out.println("Esto es una rama nueva dos");
 	}
 
 }
